@@ -1,0 +1,17 @@
+setup.py
+data_handler/__init__.py
+data_handler/json_loader.py
+data_handler/time_utils.py
+models/__init__.py
+models/course.py
+models/schedule.py
+models/session.py
+scheduler/__init__.py
+scheduler/conflict_checker.py
+scheduler/constraints.py
+scheduler/schedule_generator.py
+semcalc.egg-info/PKG-INFO
+semcalc.egg-info/SOURCES.txt
+semcalc.egg-info/dependency_links.txt
+semcalc.egg-info/requires.txt
+semcalc.egg-info/top_level.txt

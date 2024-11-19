@@ -1,0 +1,22 @@
+{
+  "semester": 1,
+  "year": 2024,
+  "courses": {
+    "ENME609": {
+      "class_code": "ENME609/W101",
+      "stream_name": "A"
+    },
+    "ENSE602": {
+      "class_code": "ENSE602/W102",
+      "stream_name": "A"
+    },
+    "ENEL602": {
+      "class_code": "ENEL602/W151",
+      "stream_name": "A"
+    },
+    "ENGE702": {
+      "class_code": "ENGE702/W104",
+      "stream_name": "A"
+    }
+  }
+}

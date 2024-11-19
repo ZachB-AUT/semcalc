@@ -1,0 +1,9 @@
+{
+  "required_courses": ["ENGE702", "ENSE602", "ENEL602", "ENME609", "COMP610"],
+  "degree_info": {
+    "name": "Bachelor of Engineering (Honours)",
+    "major": "Mechatronics",
+    "minor": "Computer Science",
+    "year": 2024
+  }
+}
